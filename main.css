@@ -1,0 +1,37 @@
+body{
+    font-family: optima;
+    background:white;
+}
+.top{
+    background-color: whitesmoke;
+}
+.top h1{
+    padding-top:10ch;
+    text-align: center;
+    padding-bottom: 10ch;
+}
+.top ul{
+    display: inline;
+    background-color: rgb(193, 193, 231);
+}
+.top ul li{
+    display: inline-block;
+    padding-bottom: 5ch;
+    padding-left: 10ch;
+    padding-right: 10ch;
+}
+.top nav{
+    text-align: center;
+}
+.contact nav{
+    text-align: center;
+}
+.contact ul{
+    display: inline;
+}
+.contact ul li{
+    display: inline-block;
+    padding-top: 10ch;
+    padding-left: 150px;
+    padding-right: 150px;
+}
